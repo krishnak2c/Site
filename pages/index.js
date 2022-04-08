@@ -8,8 +8,8 @@ import Footer from "../components/footer"
 export default function Home() {
 
 const description = "A self learned coder with few pro Skills"
-const pageTitle = "Mrvishal"
-const siteName = "Mrvishal2k2"
+const pageTitle = "Krishna Choudhary"
+const siteName = "krishk216"
 
 
 
