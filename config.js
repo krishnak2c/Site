@@ -1,10 +1,9 @@
 export default {
-  tgUsername: "Mrvishal_2k2",
-  githubUsername: "Mrvishal2k2",
-  websiteName: "@MrVishaL2k2",
+  tgUsername: "krishna2621",
+  githubUsername: "krishk216",
+  websiteName: "@krishna2621",
   heroHead: "Hey There !!",
-  heroText: "MrVishaL is here, I’m 👇👇👇👇",
-  facebookUsername: "VishaL",
-  instaUsername: "mrvishal2k2",
-  typedArray : ["Student","MrProGeeky","TechBlogger","Ex-Youtuber","NoobDev","Quick-Learner"]
+  heroText: "KrishnA is here, I’m 👇👇👇👇",
+  instaUsername: "krish_216",
+  typedArray : ["Student","MrProGeeky","NoobDev","Quick-Learner"]
 };
