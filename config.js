@@ -5,5 +5,5 @@ export default {
   heroHead: "Hey There !!",
   heroText: "KrishnA is here, I’m 👇👇👇👇",
   instaUsername: "krish_216",
-  typedArray : ["Student","MrProGeeky","NoobDev","Quick-Learner"]
+  typedArray : ["Student","Coder","NoobDev","Quick-Learner"]
 };
