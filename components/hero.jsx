@@ -8,7 +8,7 @@ export default function Hero() {
       window.location = `https://t.me/${config.tgUsername}`;
   }
   function StarAlertIt() {
-    window.open("https://github.com/krishk21", "_blank"); 
+    window.open("https://github.com/krishk216", "_blank"); 
   }
 
   return (
