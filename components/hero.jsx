@@ -28,7 +28,7 @@ export default function Hero() {
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => StarAlertIt()}
       >
-        Blog
+        GitHub
       </button>
       <p></p>
       <button
