@@ -9,7 +9,7 @@ export default function Home() {
 
 const description = "A self learned coder with few pro Skills"
 const pageTitle = "Krishna Choudhary"
-const siteName = "krishnak2c"
+const siteName = "krishk2126"
 
 
 
