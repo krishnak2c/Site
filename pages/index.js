@@ -9,7 +9,7 @@ export default function Home() {
 
 const description = "A self learned coder with few pro Skills"
 const pageTitle = "Krishna Choudhary"
-const siteName = "krishk216"
+const siteName = "krishnak2c"
 
 
 
@@ -27,8 +27,8 @@ const siteName = "krishk216"
         
 
         {/* Open Graph */}
-        <meta property="og:url" content="https://mrvishal2k2.me" key="ogurl" />
-        <meta property="og:image" content="https://GitHub.com/mrvishal2k2.png" key="ogimage" />
+        <meta property="og:url" content="https://krishnak2c.github.io/Portfolio" key="ogurl" />
+        <meta property="og:image" content="https://GitHub.com/krishnak2c.png" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
