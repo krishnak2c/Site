@@ -27,7 +27,7 @@ const siteName = "krishnak2c"
         
 
         {/* Open Graph */}
-        <meta property="og:url" content="https://krishnak2c.github.io/Portfolio" key="ogurl" />
+        <meta property="og:url" content="https://krishna-theta.vercel.app" key="ogurl" />
         <meta property="og:image" content="https://GitHub.com/krishnak2c.png" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
