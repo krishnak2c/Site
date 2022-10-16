@@ -1,9 +1,9 @@
 export default {
   tgUsername: "krishna2621",
-  githubUsername: "krishk216",
-  websiteName: "@krishna2621",
+  githubUsername: "krishnak2c",
+  websiteName: "@krishnak2c",
   heroHead: "Hey There !!",
   heroText: "KrishnA is here, I’m 👇👇👇👇",
-  instaUsername: "krish_216",
+  instaUsername: "krishnak2c",
   typedArray : ["Student","Coder","NoobDev","Quick-Learner"]
 };
