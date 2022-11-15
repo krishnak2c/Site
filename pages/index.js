@@ -9,7 +9,7 @@ export default function Home() {
 
 const description = "A self learned coder with few pro Skills"
 const pageTitle = "Krishna Choudhary"
-const siteName = "krishk2126"
+const siteName = "krishnak2c"
 
 
 
@@ -23,12 +23,12 @@ const siteName = "krishk2126"
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
-        <meta name="twitter:creator" content="@_aryanvikash" key="twhandle" />
+        <meta name="twitter:creator" content="@krishnak2c" key="twhandle" />
         
 
         {/* Open Graph */}
         <meta property="og:url" content="https://krishna-theta.vercel.app" key="ogurl" />
-        <meta property="og:image" content="https://GitHub.com/krishnak2c.png" key="ogimage" />
+        <meta property="og:image" content="https://gitHub.com/krishnak2c.png" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
